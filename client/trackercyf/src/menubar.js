@@ -1,3 +1,7 @@
+// Users stories we can use when we code
+// As a trainee and mentor, they have a login with more permissions to the mentor
+// As a trainee and mentor, they can  filter modules & tasks
+
 // Version3.
 
 // version 2. this has a simplified login function that does not allow us to have a login function for trainees and one for mentors.
