@@ -59,8 +59,6 @@ app.get("/", (req, res) => {
     .then((result) => res.json(result.rows))
     .catch((err) => res.json(err));
 });
-// app.get();
-// app.post();
 
 app.listen(port, () => console.log(`Listening on port ${port}`)); //Please note I have left a similar port listener in the login function. Remove the one in login and put this one at the very end?
 
